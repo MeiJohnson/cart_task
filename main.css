@@ -1,6 +1,9 @@
+body {
+    background-color: rgb(221, 187, 248)
+}
 #cart{
     background: rgb(158, 168, 224); 
-    width: 60%;
+    width: 50%;
     height: auto; 
     border: 4px silver dashed; 
     border-radius: 10px; 
